@@ -5,7 +5,7 @@ NearKart is a full-stack hyperlocal commerce and store discovery platform that u
 ---
 
 ## 1. System Architecture
-
+GRID MA
 ```
                                ┌────────────────────────────────────────────────────────┐
                                │                    NEARKART CLIENT                     │
