@@ -1,0 +1,20 @@
+{
+  "name": "nearkart-backend",
+  "version": "1.0.0",
+  "description": "NearKart Hyperlocal Smart Grid & Delivery Backend Engine",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "h3-js": "^4.1.0",
+    "nearkart-root": "file:..",
+    "socket.io": "^4.7.5",
+    "uuid": "^9.0.1"
+  }
+}
